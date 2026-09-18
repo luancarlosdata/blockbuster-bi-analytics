@@ -12,7 +12,7 @@ Dashboard executivo desenvolvido para monitoramento analítico de faturamento, v
 ## 📌 Visão Geral do Painel
 
 <!-- Adicione o print oficial do dashboard nesta pasta e aponte o caminho abaixo -->
-![Dashboard Preview](docs/dashboard_overview.png)
+![Dashboard Preview]([docs/dashboard_overview.png](https://github.com/luancarlosdata/blockbuster-bi-analytics/blob/main/docs/dashboard_overviews.png))
 
 ### 🎯 Principais Perguntas de Negócio Respondidas:
 1. Qual é o faturamento total acumulado e o comportamento da receita ao longo dos ciclos de locação?
