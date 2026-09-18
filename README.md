@@ -1,4 +1,4 @@
-# 🎬 Blockbuster Video BI — Relatório Executivo de Performance
+#  Blockbuster Video BI — Relatório Executivo de Performance
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -9,11 +9,11 @@ Dashboard executivo desenvolvido para monitoramento analítico de faturamento, v
 
 ---
 
-## 📌 Visão Geral do Painel
+##  Visão Geral do Painel
 
 <!-- Adicione o print oficial do dashboard nesta pasta e aponte o caminho abaixo -->
 ![Dashboard Preview](https://github.com/luancarlosdata/blockbuster-bi-analytics/blob/main/docs/dashboard_overviews.png)
-### 🎯 Principais Perguntas de Negócio Respondidas:
+###  Principais Perguntas de Negócio Respondidas:
 1. Qual é o faturamento total acumulado e o comportamento da receita ao longo dos ciclos de locação?
 2. Qual o ticket médio por filme e como ele varia entre os diferentes mercados?
 3. Quais são os 10 títulos com maior tração e giro de inventário?
@@ -22,11 +22,11 @@ Dashboard executivo desenvolvido para monitoramento analítico de faturamento, v
 
 ---
 
-## 🏗️ Arquitetura e Engenharia de Dados
+##  Arquitetura e Engenharia de Dados
 
 O projeto foi construído a partir do banco de dados relacional transacional `dvdrental` (PostgreSQL em 3NF). Para otimizar a performance analítica e o consumo no Power BI, os dados foram transformados em um modelo dimensional **Star Schema** por meio de SQL Views.
 
-### 📐 Modelo Dimensional (Star Schema)
+###  Modelo Dimensional (Star Schema)
 
 ```text
        [v_dim_cliente] ──┐
