@@ -12,7 +12,8 @@ Dashboard executivo desenvolvido para monitoramento analítico de faturamento, v
 ##  Visão Geral do Painel
 
 <!-- Adicione o print oficial do dashboard nesta pasta e aponte o caminho abaixo -->
-![Dashboard Preview](https://github.com/luancarlosdata/blockbuster-bi-analytics/blob/main/docs/dashboard_overviews.png)
+![Dashboard Preview](https://github.com/luancarlosdata/blockbuster-bi-analytics/blob/main/docs/dashboard_overview.png)
+![Dashboard Preview](https://github.com/luancarlosdata/blockbuster-bi-analytics/blob/main/docs/dashboard_overview2.png)
 ###  Principais Perguntas de Negócio Respondidas:
 1. Qual é o faturamento total acumulado e o comportamento da receita ao longo dos ciclos de locação?
 2. Qual o ticket médio por filme e como ele varia entre os diferentes mercados?
